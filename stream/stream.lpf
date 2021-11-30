@@ -5,9 +5,9 @@
    0.000000E+00   0.000000E+00
          0         0
          0         0
-CONSTANT    5.200000E+01                           #hk layer 1                    
+CONSTANT    1.000000E+01                           #hk layer 1                    
 CONSTANT    1.000000E+00                           #hani layer 1                  
 CONSTANT    1.000000E+01                           #vka1                          
-CONSTANT    5.200000E+01                           #hk layer 2                    
+CONSTANT    1.000000E+01                           #hk layer 2                    
 CONSTANT    1.000000E+00                           #hani layer 2                  
 CONSTANT    1.000000E+01                           #vka2                          
