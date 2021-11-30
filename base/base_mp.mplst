@@ -124,9 +124,9 @@ NUMBER OF PARTICLE GROUPS =     1
      FACE  6:     1 ROWS,     1 COLUMNS
      SINGLE RELEASE:
      RELEASE TIME =    0.000000E+00
-     NUMBER OF PARTICLES =      1750
+     NUMBER OF PARTICLES =      1730
  
-TOTAL NUMBER OF PARTICLES FOR ALL GROUPS =       1750
+TOTAL NUMBER OF PARTICLES FOR ALL GROUPS =       1730
  
      1Time points will be read from a list.
     0.10000E+01
@@ -155,7 +155,7 @@ Processing Time Step     1 Period     1.  Time =  1.00000E+00                   
 Particle summary:
 -----------------
          0 particles remain active
-      1750 particles terminated in zone    1
+      1730 particles terminated in zone    1
          0 particles were stranded
  
 Default real number precision =         15
