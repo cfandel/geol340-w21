@@ -7,6 +7,7 @@ LPF               15  ocotillo.lpf
 OC                14  ocotillo.oc
 PCG               27  ocotillo.pcg
 RCH               19  ocotillo.rch
+STR              118  ocotillo.str
 WEL               20  ocotillo.wel
 DATA(BINARY)      53  ocotillo.cbc REPLACE
 DATA(BINARY)      51  ocotillo.hds REPLACE
