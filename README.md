@@ -12,7 +12,7 @@ Each numbered folder contains a Jupyter Notebook stepping through the setup, run
 For shortcuts to each notebook, in order of increasing complexity, start here:
 
 1. [Simplest "base" model](https://github.com/cfandel/geol340-w21/blob/main/1_base/base.ipynb)
-2. [Adding a stream] (https://github.com/cfandel/geol340-w21/blob/main/2_stream/stream.ipynb)
-3. [Adding evapotranspiration] (https://github.com/cfandel/geol340-w21/blob/main/3_evapotranspiration/evapotranspiration.ipynb)
-4. [Adding a well] (https://github.com/cfandel/geol340-w21/blob/main/4_well/well.ipynb)
-5. [Final project] (https://github.com/cfandel/geol340-w21/blob/main/ocotillo/ocotillo_student.ipynb) 
+2. [Adding a stream](https://github.com/cfandel/geol340-w21/blob/main/2_stream/stream.ipynb)
+3. [Adding evapotranspiration](https://github.com/cfandel/geol340-w21/blob/main/3_evapotranspiration/evapotranspiration.ipynb)
+4. [Adding a well](https://github.com/cfandel/geol340-w21/blob/main/4_well/well.ipynb)
+5. [Final project](https://github.com/cfandel/geol340-w21/blob/main/ocotillo/ocotillo_student.ipynb) 
